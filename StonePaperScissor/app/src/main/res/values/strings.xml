@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StonePaperScissor</string>
+    <string name="title">Stone Paper Scissor</string>
+    <string name="score">YOUR SCORE</string>
+    <string name="computer">COMPUTER SCORE</string>
+    <string name="turn">YOUR TURN</string>
+    <string name="stone">STONE</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="creation">CREATED BY DHANUSH</string>
+</resources>
